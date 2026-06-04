@@ -3,13 +3,6 @@ body {
 	margin: 0;
 	font-family: 'Lato', sans-serif;
 }
-/*
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-``````````````````````````
-     GLOBAL CSS START 	  |
-``````````````````````````
-~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
  
 .container {
 	width: 85%;
@@ -53,24 +46,8 @@ body {
 	overflow: hidden;
 }
 
-/*
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-``````````````````````````
-     GLOBAL CSS END 	  |
-``````````````````````````
-~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
-
-
-/*
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-``````````````````````````
-    HEADER AREA START	  |
-``````````````````````````
-~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
 .header-area {
-    background: url('widayaka/widayaka.github.io/images/hero.jpg') no-repeat center center / cover;
+    background: url('images/hero.jpg') no-repeat center center / cover;
 	padding: 60px 0;
 	
 }
@@ -207,7 +184,7 @@ body {
 }
 
 .contend-area .download-section {
-    background: #e8b968 url('widayaka/widayaka.github.io/images/ipadBG.png') no-repeat right  65px/ 50%;
+    background: #e8b968 url('images/ipadBG.png') no-repeat right  65px/ 50%;
     overflow: hidden;
     color: #FFF;
 	padding: 100px 0;
@@ -250,7 +227,7 @@ body {
 }
 
 .contend-area .client-review-section {
-	background: url('widayaka/widayaka.github.io/images/tBG01.jpg') no-repeat left center / cover;
+	background: url('images/tBG01.jpg') no-repeat left center / cover;
 	padding: 55px 0;
 }
 
@@ -280,7 +257,7 @@ body {
 }
 
 .contend-area .demo-section {
-    background: url('widayaka/widayaka.github.io/images/arrowBG.png') no-repeat 49.5% -1px;
+    background: url('images/arrowBG.png') no-repeat 49.5% -1px;
     position: relative;
     padding: 70px 0;
 }
@@ -427,22 +404,6 @@ body {
 .contend-area .slider-button .img-wraper img {
 	width: 25%;
 }
-
-/*
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-``````````````````````````
-    CONTEND AREA END	  |
-``````````````````````````
-~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
- 
-/*
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-``````````````````````````
-    FOOTER AREA START	  |
-``````````````````````````
-~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
 
 .footer-area {
 	background: #7accc8;

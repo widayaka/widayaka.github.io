@@ -207,7 +207,7 @@ body {
 }
 
 .contend-area .download-section {
-    background: #e8b968 url('../images/ipadBG.png') no-repeat right  65px/ 50%;
+    background: #e8b968 url('widayaka/widayaka.github.io/images/ipadBG.png') no-repeat right  65px/ 50%;
     overflow: hidden;
     color: #FFF;
 	padding: 100px 0;
@@ -250,7 +250,7 @@ body {
 }
 
 .contend-area .client-review-section {
-	background: url('../images/tBG01.jpg') no-repeat left center / cover;
+	background: url('widayaka/widayaka.github.io/images/tBG01.jpg') no-repeat left center / cover;
 	padding: 55px 0;
 }
 
@@ -280,7 +280,7 @@ body {
 }
 
 .contend-area .demo-section {
-    background: url('../images/arrowBG.png') no-repeat 49.5% -1px;
+    background: url('widayaka/widayaka.github.io/images/arrowBG.png') no-repeat 49.5% -1px;
     position: relative;
     padding: 70px 0;
 }

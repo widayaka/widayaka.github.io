@@ -47,16 +47,17 @@ body {
 }
 
 .header-area {
-    background: url('images/hero.jpg') no-repeat center center / cover;
+    background: url('/images/hero.jpg') no-repeat center center / cover;
 	padding: 60px 0;
-	
 }
 
 .header-area .menu-area {
     width: 50%;
+	max-width: 900px;
     position: absolute;
-    left: 25%;
+    left: 50%;
     top: 40px;
+	transform: translateX(-50%);
 }
 
 .header-area .menu-area ul {
@@ -97,7 +98,7 @@ body {
 	display: none;
 }
 
-.header-area .menu-area ul :hover ul{
+.header-area .menu-area ul li:hover > ul{
 	display: block;
 }
 
@@ -163,8 +164,7 @@ body {
 }
 
 .header-area .button {
-    position: relative;
-	left: 37%;
+    text-align: center;
 	padding-bottom: 20px;
 }
 
